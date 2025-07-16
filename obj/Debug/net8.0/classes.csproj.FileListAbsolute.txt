@@ -12,3 +12,4 @@ C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\classes\obj\Debug
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\classes\obj\Debug\net8.0\classes.pdb
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\classes\obj\Debug\net8.0\classes.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\classes\obj\Debug\net8.0\ref\classes.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\POO\classes\obj\Debug\net8.0\classes.sourcelink.json
